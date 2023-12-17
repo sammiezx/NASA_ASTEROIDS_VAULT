@@ -1,7 +1,7 @@
 # ASTEROID VAULT
 ### BY Sameer 
 
-This is a project to study asteroids, their whereabouts and studying them with advanced modeling and analytics techniques.
+This is a project to study asteroids, their whereabouts and studying them with advanced modeling and data science.
 The project proposes value being a complete production ready system and advanced data analytics used.
 I have used the stack I prefer the most, while equilavent can be accomplished by myriads of other arrangements.
 
