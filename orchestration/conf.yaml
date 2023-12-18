@@ -3,3 +3,4 @@ catchup_buffer_path: "/home/samir/Desktop/ARIMA/nasa_asteroid_vault/warehouse/bu
 cassandra_keyspace_name: "asteroid_vault"
 cassandra_table_name: "proximity_table"
 catch_upto: '2015-01-01'
+log_path: '/home/samir/Desktop/ARIMA/nasa_asteroid_vault/log/'
