@@ -12,7 +12,7 @@ def api_adapter(data, start_date, end_date):
         while current_date <= end_date:
             key = current_date.strftime('%Y-%m-%d')
             dff = pd.DataFrame(data[key])
-            dff['date_sys'] = pd.to_datetime(key)
+            dff['date_system_recorded'] = pd.to_datetime(key)
             df.append(dff)
             current_date += timedelta(days=1)
         return pd.concat(df, ignore_index=True)
@@ -21,7 +21,7 @@ def api_adapter(data, start_date, end_date):
 
     
 
-def hit_nasa_api(start_date='2015-09-07', end_date='2015-09-09', offset=0, length=5000):
+def hit_nasa_api(start_date='2015-09-07', end_date='2015-09-09'):
 
     load_dotenv()
     api_key = os.getenv("API_KEY_NASA")
