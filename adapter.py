@@ -1,8 +1,11 @@
 import json
+import pandas as pd
 
 def decode_json_unit(string):
+    # if pd.isna(string):
+    #     return float('nan')
     try:
-        return json.loads(string.replace("'", '"'))
+        return json.loads(str(string).replace("'", '"'))
     except (json.JSONDecodeError, KeyError):
         raise
 
@@ -17,8 +20,8 @@ def check_constraints(value):
 def parse_response(data):
     data['links'] = data['links'].apply(lambda x: decode_json_unit(x)['self'])
     #ADHERING TO MKS UNITS
-    data['estimated_diameter_max'] = data['estimated_diameter'].map(lambda x: decode_json_unit(x)['meters']['estimated_diameter_max'])
-    data['estimated_diameter_min'] = data['estimated_diameter'].map(lambda x: decode_json_unit(x)['meters']['estimated_diameter_min'])
+    data['estimated_diameter_max'] = data['estimated_diameter'].map(lambda x: decode_json_unit(x)['meters']['estimated_diameter_max'] if not pd.isna(x) else float('nan'))
+    data['estimated_diameter_min'] = data['estimated_diameter'].map(lambda x: decode_json_unit(x)['meters']['estimated_diameter_min'] if not pd.isna(x) else float('nan'))
     data = data.drop('estimated_diameter', axis=1)
 
     data['close_approach_data'].apply(lambda x: check_constraints(decode_json_unit(x)))

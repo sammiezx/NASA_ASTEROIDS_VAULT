@@ -2,6 +2,7 @@ from cassandra.cluster import Cluster
 from cassandra.query import SimpleStatement
 import time
 import subprocess
+import pandas as pd
 
 ref_schema = ['links', 'id', 'neo_reference_id', 'name', 'nasa_jpl_url',
        'absolute_magnitude_h', 'is_potentially_hazardous_asteroid',
@@ -77,6 +78,9 @@ def get_min_max_dates(session, keyspace='asteroid_vault', table='proximity_table
     result = session.execute(query)
     min_date, max_date = result[0]
     return min_date, max_date
+
+def get_dataframe(session, table_name='proximity_table'):
+    return pd.DataFrame(session.execute(f"SELECT * FROM {table_name}"))   
 
 def shutdown_cluster(session):
     session.shutdown()

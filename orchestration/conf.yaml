@@ -2,5 +2,5 @@ buffer_path: "/home/samir/Desktop/ARIMA/nasa_asteroid_vault/warehouse/buffer/tra
 catchup_buffer_path: "/home/samir/Desktop/ARIMA/nasa_asteroid_vault/warehouse/buffer/catchup_transient_df.csv"
 cassandra_keyspace_name: "asteroid_vault"
 cassandra_table_name: "proximity_table"
-catch_upto: '2015-01-01'
+catch_upto: '2022-07-01'
 log_path: '/home/samir/Desktop/ARIMA/nasa_asteroid_vault/log/'

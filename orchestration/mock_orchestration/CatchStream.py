@@ -27,7 +27,7 @@ class CatchStream:
         self.conf = conf
         self.session = session
         self.date_offset, _ = get_min_max_dates(session)
-        
+
         logging.basicConfig(filename= conf['log_path']+ stream_id + '.log', level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
         self.logger = logging.getLogger(__name__ + f'.instance_{id(self)}')
         
@@ -75,7 +75,7 @@ class CatchStream:
             # adapter takes care of most of the parsing and all, while more can be added in this task later on
             self.clear_buffer()
             df.to_csv(conf['catchup_buffer_path'], index=False)
-            # self.logger.info(f"[PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch")
+            # self.logger.info("[PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch")
         except Exception as e:
             raise e
 
