@@ -106,3 +106,6 @@ class CatchStream:
             except Exception as e:
                 self.logger.error("An error occurred: %s", str(e), exc_info=True)
                 raise e
+
+
+CatchStream().stream()
