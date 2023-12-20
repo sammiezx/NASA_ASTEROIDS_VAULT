@@ -1,0 +1,217 @@
+2023-12-18 21:30:14,765 - __main__.instance_140165455324560 - INFO - [TARGETING NASA API]
+2023-12-18 21:30:17,008 - __main__.instance_140165455324560 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-08-05 TO 2023-08-11 batch
+2023-12-18 21:30:17,008 - __main__.instance_140165455324560 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:30:17,031 - __main__.instance_140165455324560 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:30:17,031 - __main__.instance_140165455324560 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:30:44,684 - __main__.instance_140495631900800 - INFO - [TARGETING NASA API]
+2023-12-18 21:30:46,916 - __main__.instance_140495631900800 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-07-29 TO 2023-08-04 batch
+2023-12-18 21:30:46,917 - __main__.instance_140495631900800 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:30:46,936 - __main__.instance_140495631900800 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:30:46,936 - __main__.instance_140495631900800 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:30:47,031 - __main__.instance_140495631900800 - INFO - [TARGETING NASA API]
+2023-12-18 21:30:48,991 - __main__.instance_140495631900800 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-07-23 TO 2023-07-29 batch
+2023-12-18 21:30:48,991 - __main__.instance_140495631900800 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:30:49,007 - __main__.instance_140495631900800 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:30:49,008 - __main__.instance_140495631900800 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:30:49,088 - __main__.instance_140495631900800 - INFO - [TARGETING NASA API]
+2023-12-18 21:30:51,432 - __main__.instance_140495631900800 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-07-17 TO 2023-07-23 batch
+2023-12-18 21:30:51,432 - __main__.instance_140495631900800 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:30:51,451 - __main__.instance_140495631900800 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:30:51,451 - __main__.instance_140495631900800 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:30:51,546 - __main__.instance_140495631900800 - INFO - [TARGETING NASA API]
+2023-12-18 21:30:53,423 - __main__.instance_140495631900800 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-07-11 TO 2023-07-17 batch
+2023-12-18 21:30:53,424 - __main__.instance_140495631900800 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:30:53,440 - __main__.instance_140495631900800 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:30:53,440 - __main__.instance_140495631900800 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:30:53,514 - __main__.instance_140495631900800 - INFO - [TARGETING NASA API]
+2023-12-18 21:30:55,783 - __main__.instance_140495631900800 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-07-05 TO 2023-07-11 batch
+2023-12-18 21:30:55,783 - __main__.instance_140495631900800 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:30:55,799 - __main__.instance_140495631900800 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:30:55,799 - __main__.instance_140495631900800 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:30:55,870 - __main__.instance_140495631900800 - INFO - [TARGETING NASA API]
+2023-12-18 21:30:58,427 - __main__.instance_140495631900800 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-06-29 TO 2023-07-05 batch
+2023-12-18 21:30:58,427 - __main__.instance_140495631900800 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:30:58,443 - __main__.instance_140495631900800 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:30:58,443 - __main__.instance_140495631900800 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:30:58,587 - __main__.instance_140495631900800 - INFO - [TARGETING NASA API]
+2023-12-18 21:31:00,645 - __main__.instance_140495631900800 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-06-23 TO 2023-06-29 batch
+2023-12-18 21:31:00,646 - __main__.instance_140495631900800 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:31:00,666 - __main__.instance_140495631900800 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:31:00,666 - __main__.instance_140495631900800 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:31:00,752 - __main__.instance_140495631900800 - INFO - [TARGETING NASA API]
+2023-12-18 21:31:02,895 - __main__.instance_140495631900800 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-06-17 TO 2023-06-23 batch
+2023-12-18 21:31:02,896 - __main__.instance_140495631900800 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:31:02,916 - __main__.instance_140495631900800 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:31:02,916 - __main__.instance_140495631900800 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:31:02,997 - __main__.instance_140495631900800 - INFO - [TARGETING NASA API]
+2023-12-18 21:31:04,938 - __main__.instance_140495631900800 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-06-11 TO 2023-06-17 batch
+2023-12-18 21:31:04,938 - __main__.instance_140495631900800 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:31:04,956 - __main__.instance_140495631900800 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:31:04,956 - __main__.instance_140495631900800 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:31:05,037 - __main__.instance_140495631900800 - INFO - [TARGETING NASA API]
+2023-12-18 21:31:06,937 - __main__.instance_140495631900800 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-06-05 TO 2023-06-11 batch
+2023-12-18 21:31:06,938 - __main__.instance_140495631900800 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:31:06,971 - __main__.instance_140495631900800 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:31:06,971 - __main__.instance_140495631900800 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:31:07,079 - __main__.instance_140495631900800 - INFO - [TARGETING NASA API]
+2023-12-18 21:31:09,492 - __main__.instance_140495631900800 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-05-30 TO 2023-06-05 batch
+2023-12-18 21:31:09,493 - __main__.instance_140495631900800 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:31:09,512 - __main__.instance_140495631900800 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:31:09,512 - __main__.instance_140495631900800 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:31:09,598 - __main__.instance_140495631900800 - INFO - [TARGETING NASA API]
+2023-12-18 21:31:11,885 - __main__.instance_140495631900800 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-05-24 TO 2023-05-30 batch
+2023-12-18 21:31:11,885 - __main__.instance_140495631900800 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:31:11,909 - __main__.instance_140495631900800 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:31:11,909 - __main__.instance_140495631900800 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:31:12,016 - __main__.instance_140495631900800 - INFO - [TARGETING NASA API]
+2023-12-18 21:31:14,196 - __main__.instance_140495631900800 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-05-18 TO 2023-05-24 batch
+2023-12-18 21:31:14,196 - __main__.instance_140495631900800 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:31:14,220 - __main__.instance_140495631900800 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:31:14,220 - __main__.instance_140495631900800 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:31:14,370 - __main__.instance_140495631900800 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:00,773 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:03,369 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-05-11 TO 2023-05-17 batch
+2023-12-18 21:57:03,369 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:03,415 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:03,416 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:03,547 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:05,879 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-05-05 TO 2023-05-11 batch
+2023-12-18 21:57:05,879 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:05,896 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:05,896 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:05,985 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:08,275 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-04-29 TO 2023-05-05 batch
+2023-12-18 21:57:08,275 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:08,296 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:08,296 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:08,420 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:10,749 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-04-23 TO 2023-04-29 batch
+2023-12-18 21:57:10,749 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:10,771 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:10,771 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:10,895 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:13,304 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-04-17 TO 2023-04-23 batch
+2023-12-18 21:57:13,305 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:13,338 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:13,338 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:13,490 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:15,845 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-04-11 TO 2023-04-17 batch
+2023-12-18 21:57:15,845 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:15,877 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:15,877 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:16,040 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:18,578 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-04-05 TO 2023-04-11 batch
+2023-12-18 21:57:18,579 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:18,612 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:18,612 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:18,766 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:21,345 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-03-30 TO 2023-04-05 batch
+2023-12-18 21:57:21,346 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:21,375 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:21,375 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:21,504 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:23,875 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-03-24 TO 2023-03-30 batch
+2023-12-18 21:57:23,876 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:23,909 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:23,909 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:24,047 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:26,380 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-03-18 TO 2023-03-24 batch
+2023-12-18 21:57:26,381 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:26,411 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:26,412 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:26,543 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:30,683 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-03-12 TO 2023-03-18 batch
+2023-12-18 21:57:30,684 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:30,705 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:30,705 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:30,840 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:33,119 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-03-06 TO 2023-03-12 batch
+2023-12-18 21:57:33,119 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:33,142 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:33,142 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:33,256 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:35,618 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-02-28 TO 2023-03-06 batch
+2023-12-18 21:57:35,619 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:35,641 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:35,641 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:35,966 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:38,238 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-02-22 TO 2023-02-28 batch
+2023-12-18 21:57:38,238 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:38,257 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:38,257 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:38,349 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:40,586 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-02-16 TO 2023-02-22 batch
+2023-12-18 21:57:40,587 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:40,605 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:40,605 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:40,700 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:43,010 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-02-10 TO 2023-02-16 batch
+2023-12-18 21:57:43,011 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:43,032 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:43,032 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:43,150 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:45,583 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-02-04 TO 2023-02-10 batch
+2023-12-18 21:57:45,583 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:45,604 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:45,605 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:45,701 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:47,962 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-01-29 TO 2023-02-04 batch
+2023-12-18 21:57:47,962 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:47,981 - __main__.instance_140011778957488 - INFO - [PAYLOAD PROCESSED FOR]: {start_date} TO {end_date} batch
+2023-12-18 21:57:47,981 - __main__.instance_140011778957488 - INFO - [DUMPING PAYLOAD]
+2023-12-18 21:57:48,073 - __main__.instance_140011778957488 - INFO - [TARGETING NASA API]
+2023-12-18 21:57:51,586 - __main__.instance_140011778957488 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-01-23 TO 2023-01-29 batch
+2023-12-18 21:57:51,587 - __main__.instance_140011778957488 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:57:51,597 - __main__.instance_140011778957488 - ERROR - An error occurred: 'float' object has no attribute 'replace'
+Traceback (most recent call last):
+  File "/tmp/ipykernel_173830/770277182.py", line 106, in stream
+    self.preprocess_payload()
+  File "/tmp/ipykernel_173830/770277182.py", line 82, in preprocess_payload
+    raise e
+  File "/tmp/ipykernel_173830/770277182.py", line 76, in preprocess_payload
+    df = parse_response(df)
+  File "/home/samir/Desktop/ARIMA/nasa_asteroid_vault/adapter.py", line 20, in parse_response
+    data['estimated_diameter_max'] = data['estimated_diameter'].map(lambda x: decode_json_unit(x)['meters']['estimated_diameter_max'])
+  File "/home/samir/Desktop/ARIMA/nasa_asteroid_vault/env/lib/python3.10/site-packages/pandas/core/series.py", line 4544, in map
+    new_values = self._map_values(arg, na_action=na_action)
+  File "/home/samir/Desktop/ARIMA/nasa_asteroid_vault/env/lib/python3.10/site-packages/pandas/core/base.py", line 921, in _map_values
+    return algorithms.map_array(arr, mapper, na_action=na_action, convert=convert)
+  File "/home/samir/Desktop/ARIMA/nasa_asteroid_vault/env/lib/python3.10/site-packages/pandas/core/algorithms.py", line 1814, in map_array
+    return lib.map_infer(values, mapper, convert=convert)
+  File "lib.pyx", line 2926, in pandas._libs.lib.map_infer
+  File "/home/samir/Desktop/ARIMA/nasa_asteroid_vault/adapter.py", line 20, in <lambda>
+    data['estimated_diameter_max'] = data['estimated_diameter'].map(lambda x: decode_json_unit(x)['meters']['estimated_diameter_max'])
+  File "/home/samir/Desktop/ARIMA/nasa_asteroid_vault/adapter.py", line 5, in decode_json_unit
+    return json.loads(string.replace("'", '"'))
+AttributeError: 'float' object has no attribute 'replace'
+2023-12-18 21:58:42,523 - __main__.instance_140237661792112 - INFO - [TARGETING NASA API]
+2023-12-18 21:58:45,048 - __main__.instance_140237661792112 - INFO - [PAYLOAD INITIALIZED FOR]: 2023-01-22 TO 2023-01-28 batch
+2023-12-18 21:58:45,049 - __main__.instance_140237661792112 - INFO - [PROCESSING PAYLOAD]
+2023-12-18 21:58:45,054 - __main__.instance_140237661792112 - ERROR - An error occurred: Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "/tmp/ipykernel_174811/770277182.py", line 106, in stream
+    self.preprocess_payload()
+  File "/tmp/ipykernel_174811/770277182.py", line 82, in preprocess_payload
+    raise e
+  File "/tmp/ipykernel_174811/770277182.py", line 76, in preprocess_payload
+    df = parse_response(df)
+  File "/home/samir/Desktop/ARIMA/nasa_asteroid_vault/adapter.py", line 20, in parse_response
+    data['estimated_diameter_max'] = data['estimated_diameter'].map(lambda x: decode_json_unit(x)['meters']['estimated_diameter_max'])
+  File "/home/samir/Desktop/ARIMA/nasa_asteroid_vault/env/lib/python3.10/site-packages/pandas/core/series.py", line 4544, in map
+    new_values = self._map_values(arg, na_action=na_action)
+  File "/home/samir/Desktop/ARIMA/nasa_asteroid_vault/env/lib/python3.10/site-packages/pandas/core/base.py", line 921, in _map_values
+    return algorithms.map_array(arr, mapper, na_action=na_action, convert=convert)
+  File "/home/samir/Desktop/ARIMA/nasa_asteroid_vault/env/lib/python3.10/site-packages/pandas/core/algorithms.py", line 1814, in map_array
+    return lib.map_infer(values, mapper, convert=convert)
+  File "lib.pyx", line 2926, in pandas._libs.lib.map_infer
+  File "/home/samir/Desktop/ARIMA/nasa_asteroid_vault/adapter.py", line 20, in <lambda>
+    data['estimated_diameter_max'] = data['estimated_diameter'].map(lambda x: decode_json_unit(x)['meters']['estimated_diameter_max'])
+  File "/home/samir/Desktop/ARIMA/nasa_asteroid_vault/adapter.py", line 5, in decode_json_unit
+    return json.loads(str(string).replace("'", '"'))
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
